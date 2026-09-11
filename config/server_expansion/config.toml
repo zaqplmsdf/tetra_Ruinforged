@@ -1,0 +1,27 @@
+[welcome]
+	enable_welcome = true
+
+	[cleanup.items]
+		enable = true
+		# Default: 6000
+		# Range: > 20
+		interval = 6000
+		blacklist = ["minecraft:dragon_egg", "#minecraft:flowers", "!minecraft:diamond"]
+		skip_components = ["custom_name", "enchantments"]
+
+	[cleanup.entities]
+		enable = false
+		# Default: 6000
+		# Range: > 20
+		interval = 6000
+		whitelist = ["minecraft:experience_orb", "minecraft:arrow", "!minecraft:villager"]
+		skip_named = true
+		skip_persistent = true
+
+	[cleanup.recovery]
+		# Default: 1
+		# Range: 1 ~ 30
+		expire_days = 1
+
+[debug]
+	block_entity_checker = false

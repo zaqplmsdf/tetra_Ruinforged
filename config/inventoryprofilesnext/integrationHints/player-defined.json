@@ -1,0 +1,2038 @@
+{
+    "moze_intel.projecte.gameObjs.gui.GUITransmutation": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 185,
+                "top": 173
+            },
+            "SETTINGS": {
+                "horizontalOffset": 185,
+                "top": 170
+            }
+        }
+    },
+    "mekanism.common.registration.impl.ContainerTypeDeferredRegister$ContainerBuilder$1": {
+        "ignore": true
+    },
+    "mekanism.client.gui.GuiChemicalTank": {
+        "ignore": true
+    },
+    "committee.nova.mods.avaritia.client.screen.InfinityChestScreen": {
+        "ignore": true
+    },
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            },
+            "SORT": {
+                "horizontalOffset": -60,
+                "bottom": 38
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -48,
+                "bottom": 26
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -36,
+                "bottom": 14
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.ShulkerBoxScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            },
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -18,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -54,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -42,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -30,
+                "top": 22
+            }
+        }
+    },
+    "com.brucedelta.projectx1.gameObjs.container.ArcaneTabletContainer": {
+        "ignore": true
+    },
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18,
+                "bottom": 20
+            },
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": 68
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": 56
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": 44
+            },
+            "CONTINUOUS_CRAFTING": {
+                "horizontalOffset": 1
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.LimitedBarrelScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "top": 263
+            },
+            "SETTINGS": {
+                "top": 260
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.HopperScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18,
+                "bottom": -49
+            },
+            "SORT": {
+                "horizontalOffset": -54,
+                "bottom": -13
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -42,
+                "bottom": -25
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -30,
+                "bottom": -37
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 211,
+                "top": 102
+            },
+            "SETTINGS": {
+                "horizontalOffset": 211,
+                "top": 99
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -18,
+                "top": -2
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CraftingScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18,
+                "bottom": 68
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.StonecutterScreen": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": 68
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": 56
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": 44
+            },
+            "CONTINUOUS_CRAFTING": {
+                "horizontalOffset": 1,
+                "bottom": -3
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CartographyTableScreen": {
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SORT": {
+                "horizontalOffset": -43,
+                "bottom": 68
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -31,
+                "bottom": 56
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -19,
+                "bottom": 44
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.SmithingScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            },
+            "SORT": {
+                "horizontalOffset": -43,
+                "bottom": 68
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -31,
+                "bottom": 56
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -19,
+                "bottom": 44
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.GrindstoneScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            },
+            "SORT": {
+                "horizontalOffset": -43,
+                "bottom": 68
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -31,
+                "bottom": 56
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -19,
+                "bottom": 44
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.LoomScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.FurnaceScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            },
+            "SORT": {
+                "horizontalOffset": -43,
+                "bottom": 68
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -31,
+                "bottom": 56
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -19,
+                "bottom": 44
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.SmokerScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            },
+            "SORT": {
+                "horizontalOffset": -43,
+                "bottom": 68
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -31,
+                "bottom": 56
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -19,
+                "bottom": 44
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.BlastFurnaceScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 211,
+                "top": 86
+            },
+            "SETTINGS": {
+                "horizontalOffset": 211,
+                "top": 83
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.AnvilScreen": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": 68
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": 56
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": 44
+            },
+            "CONTINUOUS_CRAFTING": {
+                "bottom": -11
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.EnchantmentScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.BrewingStandScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.BeaconScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.ContainerScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -18,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -54,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -42,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -30,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "moze_intel.projecte.gameObjs.gui.AlchChestScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 36
+            },
+            "SORT": {
+                "horizontalOffset": -55
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 12
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 24
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 171,
+                "top": 186
+            },
+            "SETTINGS": {
+                "horizontalOffset": 171,
+                "top": 183
+            }
+        }
+    },
+    "moze_intel.projecte.gameObjs.gui.AbstractCondenserScreen$MK1": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -20
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -20,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -56,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -44,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -32,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 171,
+                "top": 187
+            },
+            "SETTINGS": {
+                "horizontalOffset": 171,
+                "top": 184
+            }
+        }
+    },
+    "moze_intel.projecte.gameObjs.gui.AbstractCondenserScreen$MK2": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 171,
+                "top": 187
+            },
+            "SETTINGS": {
+                "horizontalOffset": 171,
+                "top": 184
+            }
+        }
+    },
+    "moze_intel.projecte.gameObjs.gui.AbstractCollectorScreen$MK1": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -18,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -54,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -42,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -30,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 211,
+                "top": 154
+            },
+            "SETTINGS": {
+                "horizontalOffset": 211,
+                "top": 151
+            }
+        }
+    },
+    "moze_intel.projecte.gameObjs.gui.AbstractCollectorScreen$MK2": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 199,
+                "top": 153
+            },
+            "SETTINGS": {
+                "horizontalOffset": 199,
+                "top": 150
+            }
+        }
+    },
+    "moze_intel.projecte.gameObjs.gui.AbstractCollectorScreen$MK3": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 190,
+                "top": 153
+            },
+            "SETTINGS": {
+                "horizontalOffset": 190,
+                "top": 150
+            }
+        }
+    },
+    "io.redspace.ironsspellbooks.gui.inscription_table.InscriptionTableMenu": {
+        "ignore": true
+    },
+    "io.redspace.ironsspellbooks.gui.scroll_forge.ScrollForgeMenu": {
+        "ignore": true
+    },
+    "com.simibubi.create.content.schematics.table.SchematicTableMenu": {
+        "ignore": true
+    },
+    "fuzs.enchantinginfuser.world.inventory.InfuserMenu": {
+        "ignore": true
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.ElectricityGeneratorScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -18,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -54,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -42,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -30,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "org.trp.shincolle.client.screen.ShipInventoryScreen": {
+        "ignore": true
+    },
+    "mod.gottsch.neoforge.treasure2.client.screen.StandardChestScreen": {
+        "ignore": true
+    },
+    "mod.gottsch.neoforge.treasure2.core.inventory.WitherChestContainerMenu": {
+        "ignore": true
+    },
+    "com.simibubi.create.content.logistics.filter.PackageFilterMenu": {
+        "ignore": true
+    },
+    "com.simibubi.create.content.logistics.filter.PackageFilterScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.simibubi.create.content.logistics.filter.AttributeFilterScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.simibubi.create.content.logistics.filter.FilterScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "io.ejekta.bountiful.content.gui.BoardScreenHandler": {
+        "ignore": true
+    },
+    "net.Pandarix.screen.IdentifyingScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18,
+                "bottom": -4
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            }
+        }
+    },
+    "com.simibubi.create.content.schematics.cannon.SchematicannonMenu": {
+        "ignore": true
+    },
+    "com.simibubi.create.content.schematics.cannon.SchematicannonScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.simibubi.create.content.schematics.table.SchematicTableScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.wdiscute.sellingbin.bin.SellingBinScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19,
+                "bottom": -5
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 27
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -9
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 3
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 15
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.DispenserScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18,
+                "bottom": -2
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -18,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -54,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -42,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -30,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.mehvahdjukaar.supplementaries.client.screens.PresentScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19,
+                "bottom": -1
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.mehvahdjukaar.supplementaries.client.screens.TrappedPresentScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19,
+                "bottom": -2
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "io.ejekta.bountiful.client.BoardScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "cn.cp.lib.client.gui.StonecutterGUIScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19,
+                "bottom": -2
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            }
+        }
+    },
+    "cn.cp.lib.client.gui.ReactorCoreGUIScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "cn.cp.lib.client.gui.ReinforcedReactorCoreGUIScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "fuzs.enchantinginfuser.client.gui.screens.inventory.InfuserScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "org.millenaire.client.gui.LockedChestScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18,
+                "bottom": -1
+            },
+            "SORT": {
+                "horizontalOffset": -54,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -42,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -30,
+                "top": 22
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -18,
+                "top": 34
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            }
+        }
+    },
+    "net.mehvahdjukaar.supplementaries.client.screens.CannonScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.mcreator.butchery.client.gui.TaxidermystationguiScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19,
+                "bottom": -2
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.mcreator.butchery.client.gui.MeatgrinderguiScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.mcreator.butchery.client.gui.PestleandmotarguiScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.controller.ControllerScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.importer.ImporterScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.exporter.ExporterScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.storage.externalstorage.ExternalStorageScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.constructordestructor.ConstructorScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.constructordestructor.DestructorScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.networking.WirelessTransmitterScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.grid.screen.GridScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.autocrafting.autocraftermanager.AutocrafterManagerScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.autocrafting.monitor.AutocraftingMonitorScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.grid.screen.CraftingGridScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.autocrafting.patterngrid.PatternGridScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.detector.DetectorScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.networking.NetworkTransmitterScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.security.SecurityManagerScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.networking.RelayScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.autocrafting.autocrafter.AutocrafterScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.storage.diskinterface.DiskInterfaceScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.blay09.mods.cookingforblockheads.client.gui.screen.FridgeScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19,
+                "bottom": -1
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.blay09.mods.cookingforblockheads.client.gui.screen.KitchenScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "net.blay09.mods.cookingforblockheads.client.gui.screen.CounterScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19,
+                "bottom": -1
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.mizi.create_break.client.screen.BreakTableScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 77,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 89,
+                "top": -22
+            }
+        }
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.WorkbenchScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.FreezerScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19,
+                "bottom": -2
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.MicrowaveScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19,
+                "bottom": -2
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.StoveScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19,
+                "bottom": -2
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.RecyclingBinScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19,
+                "bottom": -2
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.pasterdream.pasterdreammod.client.screen.DreamAccumulatorScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.guilh.mcaevcompat.client.McaInventoryViewerScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "de.maxhenkel.easyvillagers.gui.ConverterScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "de.maxhenkel.easyvillagers.gui.IncubatorScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "de.maxhenkel.easyvillagers.gui.InventoryViewerScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.pasterdream.pasterdreammod.client.screen.DyedreamDeskScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.pasterdream.pasterdreammod.client.screen.MeltdreamChestScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            },
+            "MOVE_TO_CONTAINER": {
+                "bottom": 2
+            }
+        }
+    },
+    "com.pasterdream.pasterdreammod.client.screen.DreamCauldronScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.storage.portablegrid.PortableGridScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.refinedmods.refinedstorage.common.storage.storageblock.StorageBlockScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "sfiomn.legendarysurvivaloverhaul.client.screens.ThermalScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "sfiomn.legendarysurvivaloverhaul.client.screens.SewingTableScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.majesttyx.mcacapitals.client.screen.DiplomaticPackageScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "cn.breezeth.ordertocook.screen.OrderMachineScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "cn.breezeth.ordertocook.screen.TakeoutBoxScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.ovinter.mythsandlegends.client.gui.screen.StoneSanctumScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.tom.storagemod.screen.FilingCabinetScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            }
+        }
+    },
+    "com.tom.storagemod.screen.CraftingTerminalScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.tom.storagemod.screen.StorageTerminalScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.wdiscute.starcatcher.blocks.tacklebox.TackleBoxScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            },
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 2,
+                "bottom": 8
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 12,
+                "top": 16
+            },
+            "SORT": {
+                "horizontalOffset": -12,
+                "top": 3
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -12,
+                "top": 3
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 12,
+                "top": 16
+            }
+        }
+    },
+    "org.trp.shincolle.client.screen.SmallShipyardScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "de.maxhenkel.pipez.gui.ExtractScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.pasterdream.pasterdreammod.client.screen.ShadowDeskScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.pasterdream.pasterdreammod.client.screen.ShadowChestScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": 3
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 22,
+                "top": 17
+            },
+            "SORT": {
+                "horizontalOffset": -14,
+                "top": 5
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -14,
+                "top": 5
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -14,
+                "top": 5
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "cn.breezeth.ordertocook.screen.RefrigeratorScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.pasterdream.pasterdreammod.client.screen.WindmoorCrateScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": 3
+            },
+            "MOVE_TO_PLAYER": {
+                "top": 13
+            },
+            "SORT": {
+                "horizontalOffset": -24
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -24
+            },
+            "SORT_ROWS": {
+                "top": 13
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.pasterdream.pasterdreammod.client.screen.ResearchTableScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.pasterdream.pasterdreammod.client.screen.PicnicBasketScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19,
+                "bottom": -2
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "top.theillusivec4.curios.client.gui.CuriosScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19,
+                "bottom": -2
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -19,
+                "top": 34
+            },
+            "SORT": {
+                "horizontalOffset": -55,
+                "top": -2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -43,
+                "top": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -31,
+                "top": 22
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "com.coobird.staticlogistics.client.gui.screen.LinkConfiguratorScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    }
+}

@@ -1,0 +1,56 @@
+isNoticeEnabled = true
+neverShow = true
+ShowFrequency = "once"
+
+[Title]
+en_us = "Ultramodern optimization modpack DLC content"
+zh_cn = "超现代优化使用教程"
+
+[Subhead]
+enabled = "true"
+zh_cn = "by:OneKissADay"
+en_us = "Made by OneKissADay"
+
+[Contents]
+en_us = """&#55ffff--                                                         Welcome to [UO] Ultra-Modern Optimization                                                       --
+§6If you encounter any issues with the optimization pack, please join our [QQ Group](https://qm.qq.com/q/TxppLoeAw2).
+§4Hahaha, the old master finally handed over the Burning Mantra!
+§2Now then, let's begin with a simple optimization tutorial!
+§2Optimization Scheduling & Usage
+Combining Optimization Mods
+Optimization requires proper scheduling and coordination to unleash its full performance potential. Generally, a combination follows this structure: §6[Core] §2Auxiliary + Auxiliary + Functional + etc.
+For example, regarding §6[Particle Optimization]§2, when experiencing particle lag, you must first decide which core particle optimization mod to use.
+We can choose [[Particle Core]](https://www.curseforge.com/minecraft/mc-mods/particle-core).
+§2This mod offers excellent stability, albeit at a cost, and its particle performance boost may not match that of similar mods. However, for optimization beginners, it is a safe "install-and-forget" choice.
+If you have installed [[Particle Core]](https://www.curseforge.com/minecraft/mc-mods/particle-core) but still experience lag, you can pair it with [[Fix Attack Lag]](https://www.curseforge.com/minecraft/mc-mods/fix-attack-lag) to further optimize particles.
+If that is still insufficient, you can add [[Limited Damage Indicator Particle]](https://www.curseforge.com/minecraft/mc-mods/limited-damage-indicator-particle) to achieve even greater optimization.
+This forms an optimization combo: §2[Core] Particle Core, §6[Auxiliary] Fix Attack Lag, §6[Auxiliary] Limited Damage Indicator Particle.
+§2Particle Core + Reduced Particles + Reduced Attack Damage Particles = Maximized Particle Optimization!
+§6To the author, OpenGL is like a tattered garment that needs constant patching or outright replacement of certain components to achieve optimization.
+Obviously, even with maximized particle optimization, only particle-related performance will improve. Therefore, we also need §6[Optimization]§2 for world generation, lighting, rendering, entities, entity culling, AI, and more. Only by addressing all these areas can you significantly boost overall performance!
+The above is just an example; from here on, it is up to you to create your own combinations.
+&#ffaa00For the domestic [KAF] KAllFix multithreading mod, feel free to contact the author directly—they offer free optimization assistance: [KAllFix Multithreading on MCMod](https://www.mcmod.cn/class/18522.html) | [GitHub Link](https://github.com/1luik/KAllFix).
+§2Acknowledgments
+The performance and compatibility of this optimization pack would not be possible without the testing and contributions of community mod authors, including: Awei, Argon4W, zjmt777, Ah Fei L, and QQ user Zhou Yanjie (who identified an issue with Iron Magic), among many others who provided valuable testing and feedback.
+This pack also builds upon the contributions of various modpack creators who supported this project: NimShade, Silentmo, FXT1206, Some Unknown Portal Block, Ru Meng Fang Xing, molomiu, CoZo, Tony Is Also INFJ, and especially Lovin, whose assistance was invaluable in ensuring the compatibility of this optimization pack. Translation"""
+zh_cn = """&#55ffff--                                                         欢迎您使用[UO]超现代优化                                                       --
+§6如果出现优化包问题请添加[QQ群聊](https://qm.qq.com/q/TxppLoeAw2)。
+§4哈哈哈老东西终于把焚诀交出来了！
+§2那么我们开始简单的优化教程吧！
+§2优化调度与使用
+优化模组的配合
+优化通常需要调度需要很好的配合才能够发挥出强大的性能效果   并且组合一般情况下都是§6[核心] §2辅助+辅助+功能+等一系列组合。
+比如§6[粒子优化]§2在粒子卡顿当中你需要率先决定选择什么样的核心粒子优化。
+我们可以选择[[Particle Core]](https://www.curseforge.com/minecraft/mc-mods/particle-core)。
+§2此模组的稳定性相当好但是是有代价的并且粒子的性能提升并非是同等模组的对手不过对于优化小白来说这个模组可以无脑装。
+那么我们已经装了[[Particle Core]](https://www.curseforge.com/minecraft/mc-mods/particle-core)还卡就可以配合[[修复攻击卡顿]](https://www.curseforge.com/minecraft/mc-mods/fix-attack-lag)来实现粒子优化。
+如果还不够我们还可以添加[[伤害粒子限制]](https://www.curseforge.com/minecraft/mc-mods/limited-damage-indicator-particle)来进一步实现优化。
+这就是优化组合：§2[核心]Particle Core、§6[辅助]修复攻击卡顿、§6[辅助]伤害粒子限制。
+§2Particle Core+粒子减少+攻击伤害粒子减少最大化的优化了粒子！
+§6OpenGL对于作者来说就是一个破烂的衣服需要缝缝补补或者是直接替换某个东西来达到优化效果。
+很显然即便是粒子最大化也只是粒子方面的性能会很好而已所以我们需要§6[优化]§2世界生成、光照、渲染、实体、剔除实体、AI方面。等一系列的优化。这样你才能提高更多的性能！
+上面只是举个例子接下来靠你自己去搭配配合了。
+&#ffaa00国内[KAF]KAllFix多线程尽量去联系作者作者免费帮助优化:[KAllFix多线程MC百科](https://www.mcmod.cn/class/18522.html)、[github链](https://github.com/1luik/KAllFix)。
+§2致谢
+优化包的优化和兼容性离不开社区模组作者的测试贡献，以及其作者：Awei啊，Argon4W、zjmt777、阿飞L、qq网友：周延杰（发现了铁魔法问题）等。和其他众多人员的测试与建议。
+优化包离不开各大整合包作者的贡献（他们支持了我的优化包）：NimShade、Silentmo、FXT1206、某不知名传送门方块、如梦方醒、molomiu、CoZo、托尼也是INFJ、特别是Lovin作者在优化包的兼容性方面提供了巨大的帮助。"""

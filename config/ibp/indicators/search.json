@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {"block": "millenaire:locked_chest"},
+    {"block_tag": "treasure2:chests/rarity/core/common"},
+    {"block_tag": "treasure2:chests/rarity/core/uncommon"},
+    {"block_tag": "treasure2:chests/rarity/core/scarce"},
+    {"block_tag": "treasure2:chests/rarity/core/rare"},
+    {"block_tag": "treasure2:chests/rarity/core/epic"},
+    {"block_tag": "treasure2:chests/rarity/core/mythical"}
+  ]
+}

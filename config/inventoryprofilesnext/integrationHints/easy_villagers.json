@@ -1,0 +1,44 @@
+{
+    "de.maxhenkel.easyvillagers.gui.AutoTraderScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "de.maxhenkel.easyvillagers.gui.BreederScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    },
+    "de.maxhenkel.easyvillagers.gui.VillagerIOScreen": {
+        "playerSideOnly": true
+    },
+    "de.maxhenkel.easyvillagers.gui.OutputScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 76,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 88,
+                "top": -22
+            }
+        }
+    }
+}

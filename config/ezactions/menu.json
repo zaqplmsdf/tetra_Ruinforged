@@ -1,0 +1,90 @@
+[
+  {
+    "id": "key_19fcd05f901",
+    "title": "表情轮盘",
+    "icon": "minecraft:jack_o_lantern",
+    "note": "是的，又一个轮盘",
+    "action": {
+      "type": "KEY",
+      "name": "key.emotecraft.fastchoose",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_19feaae57a6",
+    "title": "万象搜索",
+    "icon": "minecraft:compass",
+    "note": "在线搜索百科站词条",
+    "action": {
+      "type": "KEY",
+      "name": "Omnisearch",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_19feab0af5c",
+    "title": "技能专精",
+    "icon": "create:filter",
+    "note": "打开加点",
+    "action": {
+      "type": "KEY",
+      "name": "key.gokiskills.open",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_19feab542e5",
+    "title": "任务",
+    "icon": "ftbquests:book",
+    "action": {
+      "type": "KEY",
+      "name": "key.ftbquests.quests",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "清理类，点击进入",
+    "title": "清理类，点击进入",
+    "icon": "kaleidoscope_cookery:trash_can",
+    "note": "单击进入具体项目",
+    "children": [
+      {
+        "id": "cmd_19feadd9eea",
+        "title": "打开垃圾桶",
+        "icon": "kaleidoscope_cookery:trash_can",
+        "action": {
+          "type": "COMMAND",
+          "command": "/cleanup rummage",
+          "delayTicks": 0,
+          "cycleCommands": false
+        }
+      },
+      {
+        "id": "cmd_19feae01e01",
+        "title": "清空垃圾桶",
+        "icon": "minecraft:barrier",
+        "action": {
+          "type": "COMMAND",
+          "command": "/cleanup clear",
+          "delayTicks": 0,
+          "cycleCommands": false
+        }
+      },
+      {
+        "id": "cmd_19feae09166",
+        "title": "清理物品",
+        "icon": "touhou_little_maid:broom",
+        "action": {
+          "type": "COMMAND",
+          "command": "/cleanup items",
+          "delayTicks": 0,
+          "cycleCommands": false
+        }
+      }
+    ]
+  }
+]
