@@ -51,4 +51,4 @@ downloadMirrorProbeStrategy = "single"
 [modpack]
 modpack = ""
 modpackUrl = ""
-updateGitRepo = ""
+updateGitRepo = "https://github.com/zaqplmsdf/tetra_Ruinforged"
