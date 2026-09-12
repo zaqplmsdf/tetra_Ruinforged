@@ -52,8 +52,12 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
+  "l2hostility": {
+    "mob": true
+  },
+  "dream_relics": {
+    "sleep_state": true,
+    "mute_state": true
   },
   "jadeaddons.create": {
     "filter": true,
@@ -65,6 +69,9 @@
     "goggles.detailed": false,
     "placard": true
   },
+  "apothic_spawners": {
+    "spawner": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -72,16 +79,13 @@
     "entity": true,
     "entity_variant": true
   },
-  "jadeaddons.lootr": {
-    "info": true
-  },
   "ftbquests": {
     "barrier": true
   },
-  "twilightforest": {
-    "drying_rack": true,
-    "chiseled_bookshelf_spawner": true,
-    "quest_ram_wool": true
+  "avaritia": {
+    "extreme_smithing": true,
+    "crafting_table": true,
+    "compressor": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -94,8 +98,38 @@
     "block_properties": false,
     "mod_name": true
   },
-  "astages": {
-    "block_component_provider": true
+  "apotheosis": {
+    "adventure": true
+  },
+  "apothic_enchanting": {
+    "ench": true
+  },
+  "balm": {
+    "jade": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "jadeaddons.lootr": {
+    "info": true
+  },
+  "mekanism": {
+    "chemical": true,
+    "remove_builtin": true,
+    "fluid": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "twilightforest": {
+    "drying_rack": true,
+    "chiseled_bookshelf_spawner": true,
+    "quest_ram_wool": true
+  },
+  "waystones": {
+    "waystone": true
   },
   "anvilcraft": {
     "ruby_prism": true,

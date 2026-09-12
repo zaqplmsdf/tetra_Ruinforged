@@ -36,7 +36,7 @@
     appliedTargets = []
 
   ["unknown:DLC|config/fml.toml"]
-    enabled = true
+    enabled = false
     appliedTargets = ["DLC\\tmp\\config_backup\\unknown_DLC_config_fml.toml\\e303c4ac1db6c257077086510718bd4f9e5a85f5_fml.toml.bak"]
 
   ["mod:DLC|Z-Client-side/obe+1.21.1-neoforge-1.1.17-hotfix.1.jar"]

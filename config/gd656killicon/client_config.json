@@ -1,0 +1,17 @@
+{
+  "current_preset": "00001",
+  "enable_sound": true,
+  "show_bonus_message": false,
+  "sound_volume": 100,
+  "enable_ace_lag": false,
+  "ace_lag_intensity": 5,
+  "disable_tacz_kill_sound": false,
+  "show_config_intro": true,
+  "show_preset_intro": true,
+  "show_element_intro": true,
+  "show_sound_intro": true,
+  "show_sound_select_intro": true,
+  "show_scoreboard_intro": true,
+  "last_language": "",
+  "last_mod_version": "NeoForge-1.21.1-1.1.0.020Alpha"
+}
